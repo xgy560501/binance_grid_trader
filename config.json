@@ -1,6 +1,6 @@
 {
   "platform": "binance_spot",
-  "symbol": "LITBUSD",
+  "symbol": "DOGEBUSD",
   "api_key": "sVFldeU71wUbq5eFjfz2iTzf4vKH9ek2O9kdt4XNBph98WyHLvSbYjuQCdG1ynkB",
   "api_secret": "Q326zu66nJTR19nZobnVEPFQhXR7Tz6YExmmiDZPqnRNCB78ZXIcYCKoGukQVXex",
   "gap_percent": 0.02,
