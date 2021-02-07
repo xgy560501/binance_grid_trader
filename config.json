@@ -8,6 +8,6 @@
   "min_price": 0.001,
   "min_qty": 10,
   "max_orders": 1,
-  "proxy_host": "127.0.0.1",
-  "proxy_port": 5888
+  "proxy_host": "",
+  "proxy_port": 0
 }
