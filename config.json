@@ -3,7 +3,7 @@
   "symbol": "LITBUSD",
   "api_key": "sVFldeU71wUbq5eFjfz2iTzf4vKH9ek2O9kdt4XNBph98WyHLvSbYjuQCdG1ynkB",
   "api_secret": "Q326zu66nJTR19nZobnVEPFQhXR7Tz6YExmmiDZPqnRNCB78ZXIcYCKoGukQVXex",
-  "gap_percent": 0.003,
+  "gap_percent": 0.02,
   "quantity": 1,
   "min_price": 0.001,
   "min_qty": 10,
